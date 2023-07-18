@@ -1,9 +1,9 @@
 # jpa02-marcushuang1
 
-Repo: [https://ucsb-cs156-m23/STARTER-jpa02](https://github.com/ucsb-cs156-m23/jpa02-marcushuang1)
+Repo: https://github.com/ucsb-cs156-m23/jpa02-marcushuang1
 
 
-Deployed at: [https://jpa02-cgaucho.herokuapp.com](http://jpa02-marcushuang1.dokku-04.cs.ucsb.edu/)
+Deployed at: http://jpa02-marcushuang1.dokku-04.cs.ucsb.edu/
 
 
 # About this repo
